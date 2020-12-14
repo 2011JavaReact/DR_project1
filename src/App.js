@@ -2,7 +2,7 @@
 import './App.css';
 import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import Homepage from './components/pages/Homepage.js';
-import {AddPage} from './components/pages/AddPage.js';
+import AddPage from './components/pages/AddPage.js';
 import Nav from './components/pages/Nav';
 import Footer from './components/pages/Footer.js';
 import ListPage from './components/pages/ListPage.js';

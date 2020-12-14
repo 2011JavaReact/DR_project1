@@ -3,7 +3,7 @@ import Axios from 'axios';
 import React, { useState } from "react";
 //import { useHistory, useParams } from "react-router-dom";
 
-export const AddPage = () =>{
+const AddPage = () =>{
 
     const [formData, setFormdata] = useState({
         name: "",
@@ -33,8 +33,11 @@ export const AddPage = () =>{
     }
 
 
+
+
     return(
     <div id="showcase2">
+        
     <section id="musician-form-main">
         <div className="form-wrap">
             <h1>Add new musician</h1>
@@ -51,7 +54,7 @@ export const AddPage = () =>{
                 
                 <div className="form-group">
                     <label htmlFor="musician-instruments">Musician Instruments</label>
-                    <select type="text" name="instruments" id="musician-instruments" value={formData["instruments"]} onChange={handleArrayChange}  >
+                    <select type="text" name="instruments" id="musician-instruments" value={formData['instruments']} onChange={handleArrayChange}  >
                             <option value="">Choosse Instrument:</option>
                             <option value="Guitar">Guitar</option>
                             <option value="Keyboard">Keyboard</option>
@@ -70,5 +73,5 @@ export const AddPage = () =>{
     )
 }
 
-//export{AddPage}
+export default AddPage;
 //Remove authenication to check if thats the issue with 401 error

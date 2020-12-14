@@ -30,6 +30,7 @@ const [formData, setFormdata] = useState({
         setFormdata({...formData, [e.target.name]: e.target.value});
     }
     return(
+    <div id="showcase4">
     <section id="musician-form-update">
         <div className="form-wrap">
             <h1>Update Musician Mood</h1>
@@ -48,6 +49,7 @@ const [formData, setFormdata] = useState({
             </form>
         </div>
     </section>
+    </div>
     )
 }
 

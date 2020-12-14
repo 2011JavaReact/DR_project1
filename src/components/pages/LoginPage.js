@@ -45,7 +45,7 @@ const handleSubmit = (e) => {
                             <input type="text" id="password"  name="musician-code"  /> 
                         </div>
                         
-                        <button id="musician-submit" className="btn">Submit User</button>
+                        <button id="musician-submit"  className="btn">Submit User</button>
                     </form>
                 </div>
         </section>

@@ -31,6 +31,7 @@ const handleSubmit = (e) => {
 }
 
     return(
+        <div id="showcase3">
         <section id="musician-form-delete">
                 <div className="form-wrap">
                     <h1>Delete Musician</h1>
@@ -46,6 +47,7 @@ const handleSubmit = (e) => {
                     </form>
                 </div>
         </section>
+        </div>
     )
 }
 

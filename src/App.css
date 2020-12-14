@@ -63,6 +63,12 @@ nav a{
   color: rgb(9, 209, 59);
 }
 
+#list{
+  padding-top: 20px;
+}
+
+
+
 .nav-container{
   width: 97%;
 	margin: inherit;
@@ -71,6 +77,7 @@ nav a{
 }
 
 .logo {
+  padding:10px 20px;
 	padding-top: 5px;
 	margin-left: 20px;
 	width: min-content;
@@ -181,7 +188,9 @@ footer{
   margin-top: 20px;
   background: #3d3f3d;
   padding: 20px;
-  color: #fff;
+  color: white;
+  font-size: medium;
+  font-weight: bolder;
 }
 
 #musician-form-update{
@@ -270,6 +279,11 @@ a {
 #showcase3 {
   background: url('./images/music3.jpg') no-repeat center center;
   height: 800px;
+  padding: 0 50px;
+}
+#showcase4 {
+  background: url('./images/music4.jpg') no-repeat center center;
+  height: 1000px;
   padding: 0 50px;
 }
 
