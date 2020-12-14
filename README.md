@@ -1,7 +1,11 @@
 # Musicians Studio 
-Frontend to Charles project 0. This website was designed to orginize a growing community of studio musicians. The site will alow a user to view a list of musicians along with their mood and instruments they play. An admin would have the ability to add, delete, or update a members.
-[a link]https://github.com/2011JavaReact/DR_project1/edit/master/README.md
+Frontend to Charles project 0. This website was designed to orginize a growing community of studio musicians. The site will alow a user to view a list of musicians along with their mood and instruments they play. An admin would have the ability to add, delete, or update a member.
+http://danrey-project1.s3-website.us-east-2.amazonaws.com/
 
+
+##
+
+![](http://url/to/img.png)
 
 # Getting Started with Create React App
 
