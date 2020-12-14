@@ -1,3 +1,8 @@
+# Musicians Studio 
+Frontend to Charles project 0. This website was designed to orginize a growing community of studio musicians. The site will alow a user to view a list of musicians along with their mood and instruments they play. An admin would have the ability to add, delete, or update a members.
+[a link]https://github.com/2011JavaReact/DR_project1/edit/master/README.md
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
