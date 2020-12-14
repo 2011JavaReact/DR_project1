@@ -3,6 +3,40 @@ Frontend to Charles project 0. This website was designed to orginize a growing c
 http://danrey-project1.s3-website.us-east-2.amazonaws.com/
 
 
+## EC2 and Frontend Bucket
+![](img/img/EC2.png)
+  
+## Frontend Jenkins https://github.com/2011JavaReact/DR_project1/blob/master/Jenkinsfile
+![](img/img/frontend.png)
+  
+## Servlet Jenkins  
+![](img/img/backend.png)
+  
+## SCRUM Board
+![](img/img/SCRUM.png)
+
+
+## Login View
+![](img/p1-l.png)
+
+## Nav View
+![](img/p1-n.png)
+
+## List View
+![](img/p1-list.png)
+
+## Add Page
+![](img/p1-add.png)
+
+## Delete Page
+![](img/p1-delete.png)
+
+## Update Page
+![](img/p1-update.png)
+
+
+
+
 ##
 
 ![](http://url/to/img.png)
